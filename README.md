@@ -1,4 +1,4 @@
-Challenge #!
+Challenge #2
 
 Objectives:
 - Create a Portfolio page that meets Acceptance Criteria and Technical Acceptance Criteria 
